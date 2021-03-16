@@ -1,0 +1,11 @@
+## Title:|cffded181Shia Labeouf Bloodlust|r
+## Version: 0.1
+## Author: OldTimer
+## Notes: Originally a weak aura uploaded in legion by fratzi and has since been unmaintained.
+## Notes: Moved to an addon for simpler installation for lazy people like me...
+## Notes: Let your dreams be dreams...
+## Interface: 11309
+## SavedVariablesPerCharacter: ShiaDB
+
+embeds.xml
+ShiaBloodlust.lua
