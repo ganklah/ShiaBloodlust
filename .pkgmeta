@@ -13,6 +13,6 @@ externals:
 
 ignore:
     - ShiaBloodlust.wowproj
-
+#getting it
 # The PackageMeta file is a YAML file that goes in the root of your repository project folder.
 # See: https://www.curseforge.com/knowledge-base/world-of-warcraft/527-preparing-the-packagemeta-file
