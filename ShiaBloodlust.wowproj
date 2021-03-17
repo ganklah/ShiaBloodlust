@@ -12,9 +12,6 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include=".pkgmeta" />
-    <Content Include="embeds.xml">
-      <SubType>Code</SubType>
-    </Content>
     <Resource Include="media\ShiaTexture.tga">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
