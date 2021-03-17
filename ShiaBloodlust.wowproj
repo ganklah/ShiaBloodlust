@@ -11,7 +11,7 @@
     <OutputPath>.</OutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include=".pkgmeta" />
+    <None Include=".pkgmeta" />
     <Content Include="embeds.xml">
       <SubType>Code</SubType>
     </Content>
